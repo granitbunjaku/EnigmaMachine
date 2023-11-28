@@ -2,3 +2,5 @@
 
 # IntelliJ
 out/
+
+.gitignore
